@@ -1,7 +1,10 @@
-### Emre Ozgun
-Software Engineering student currently based in Istanbul.
-In the pursuit of mastering the JavaScript ecosystem.
-Aside from developing web applications, I keep myself busy with Creative Coding.
+
+Software Engineering student currently based in Istanbul.  
+
+In the pursuit of mastering the JavaScript ecosystem.  
+
+Aside from developing web applications, I keep myself busy with Creative Coding.  
+
 
 
 
