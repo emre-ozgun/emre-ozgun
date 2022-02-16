@@ -7,7 +7,7 @@ Aside from developing web applications, I keep myself busy with Creative Coding.
 
 <!-- ![](formations.gif =250x250) -->
 
-![]<img src="https://github.com/emre-ozgun/emre-ozgun/blob/main/formations.gif" width="250" height="250">
+<img src="https://github.com/emre-ozgun/emre-ozgun/blob/main/formations.gif" width="400" height="400">
 
 
 
