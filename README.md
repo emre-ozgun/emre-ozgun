@@ -5,7 +5,11 @@ Aside from developing web applications, I keep myself busy with Creative Coding.
 
 [-->Stack](https://stackoverflow.com/users/11547130/emre-ozgun)
 
-![](formations.gif =250x250)
+<!-- ![](formations.gif =250x250) -->
+
+![]<img src="https://github.com/emre-ozgun/emre-ozgun/blob/main/formations.gif" width="250" height="250">
+
+
 
 <!--
 **emre-ozgun/emre-ozgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
