@@ -5,7 +5,7 @@ Aside from developing web applications, I keep myself busy with [Creative Coding
 
 [Stack Overflow](https://stackoverflow.com/users/11547130/emre-ozgun)
 
-<!-- ![](formations.gif =250x250) -->
+![](formations.gif)
 
 <!-- <img src="https://github.com/emre-ozgun/emre-ozgun/blob/main/formations.gif" width="400" height="400"> -->
 
