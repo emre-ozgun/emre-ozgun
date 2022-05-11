@@ -7,7 +7,7 @@ Aside from developing web applications, I dabble with [Generative Art](https://w
 
 <!-- ![](formations.gif) -->
 
-<img src="https://github.com/emre-ozgun/emre-ozgun/blob/main/formations.gif" width="400" height="400">
+<!-- <img src="https://github.com/emre-ozgun/emre-ozgun/blob/main/formations.gif" width="400" height="400"> -->
 
 
 
