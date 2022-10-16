@@ -1,7 +1,6 @@
 
-Software Engineering student currently based in Istanbul.  
-In the pursuit of mastering the JavaScript ecosystem.  
-I dabble with [Generative Art](https://www.instagram.com/order.collector/?hl=en).
+JavaScript Developer currently based in Istanbul.   
+I  dabble with [Generative Art](https://www.instagram.com/order.collector/?hl=en).
 
 [Stack Overflow](https://stackoverflow.com/users/11547130/emre-ozgun)
 
