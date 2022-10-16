@@ -5,8 +5,6 @@ I dabble with [Generative Art](https://www.instagram.com/order.collector/?hl=en)
 
 [Stack Overflow](https://stackoverflow.com/users/11547130/emre-ozgun)
 
-[Linkedin](https://www.linkedin.com/in/emre-%C3%B6zg%C3%BCn/)
-
 <!-- ![](formations.gif) -->
 
 <!-- <img src="https://github.com/emre-ozgun/emre-ozgun/blob/main/formations.gif" width="400" height="400"> -->
